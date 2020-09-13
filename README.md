@@ -44,8 +44,3 @@ AI Application for image classification, predicting types flowers, using transfe
 ## output
 * output is shown below cell ln[19]
 * **You will see a plot with the five flower types your network thinks are the right ones with the respecitve possibilities**
-
-
-
-
-## p
